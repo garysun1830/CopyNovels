@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyNovels", "CopyNovels\CopyNovels.csproj", "{1013493A-59B1-4DFA-AC8D-E0DC079924A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareLib17", "..\ShareLib17\ShareLib17.csproj", "{283AC19C-723C-4A95-9914-64832E8459E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1013493A-59B1-4DFA-AC8D-E0DC079924A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1013493A-59B1-4DFA-AC8D-E0DC079924A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1013493A-59B1-4DFA-AC8D-E0DC079924A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1013493A-59B1-4DFA-AC8D-E0DC079924A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283AC19C-723C-4A95-9914-64832E8459E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283AC19C-723C-4A95-9914-64832E8459E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283AC19C-723C-4A95-9914-64832E8459E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283AC19C-723C-4A95-9914-64832E8459E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
