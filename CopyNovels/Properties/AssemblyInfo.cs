@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("dotNetFileBrowser")]
+[assembly: AssemblyTitle("CopyNovels")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("SiProducciones")]
-[assembly: AssemblyProduct("dotNetFileBrowser")]
-[assembly: AssemblyCopyright("Copyright © SiProducciones 2007")]
+[assembly: AssemblyCompany("Gary Sun")]
+[assembly: AssemblyProduct("CopyNovels")]
+[assembly: AssemblyCopyright("Copyright © Gary Sun 2007")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
